@@ -1,0 +1,5 @@
+La Tuf
+Blanche,Brune,Blonde
+6.5,3
+6.5,3
+ 

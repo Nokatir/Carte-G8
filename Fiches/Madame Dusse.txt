@@ -1,0 +1,5 @@
+Madame Dusse
+Blanche,Brune,Rousse
+6.5,3.5
+6.5,3.5
+
